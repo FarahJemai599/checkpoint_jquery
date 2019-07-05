@@ -1,0 +1,103 @@
+.header{
+width: 100%;
+height:450px ;
+    background-color: rgb(206,155,164);
+}
+.header:hover{
+    color: white
+}
+#logo{
+    display: inline;
+    padding-left: 30px;
+    padding-top: 10px;
+    justify-content: flex-end;
+}
+#logo{
+    width:6%;
+    height: 50px;
+}
+.d2{
+    display: inline-block;
+    margin-left: 30px;
+    padding-left: 40px ;
+    font-size: 150%;
+}
+.d2{
+    color: white
+}
+.d2:hover{
+    color: dodgerblue;
+}
+.d3{
+    margin-left: 20px;
+    height: 35px;
+    align-content:flex-end;
+    border-radius: 15px;
+}
+.d3:hover{
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.932), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.d1{
+    display: flex;
+    justify-content: space-around;
+}
+.mots{
+    display: flex;
+    margin-top: 30px;
+}
+.button{
+    margin-top: 30px; 
+}
+#span{
+    color: beige
+}
+#texte{
+    color: black
+}
+.d4{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#watchvideo{
+    border-radius: 15px;
+    height: 35px;
+}
+#image{
+    width: 100%;
+    height: 300px;
+}
+.ti{
+    width: 100%;
+}
+.d4{
+    display:inline-block;
+}
+.images{
+    display:inline-block;
+     margin-left: 400px;
+     margin-top: 50px;
+}
+.v0{
+    width: 100%;
+    height: 200px;
+}
+.v1,.v2,.v3{
+    width: 30%;
+    height: 200px;
+}
+.v1{
+   background-color: gold;
+}
+.v2{
+    background-color: aquamarine;
+}
+.v3{
+    background-color: cornflowerblue;
+}
+.v1,.v2,.v3{
+    display: inline;
+}
+
+
